@@ -1,0 +1,43 @@
+Features in high school management site
+
+Student's side:
+-login 
+-view grade
+-view notice, calendar and schedule
+-select school president
+-evaluate teachers
+-withdrawal form submission to the adminstration office
+-view attendance form
+-form clubs
+
+Parent's Side:
+-login
+-view child grade
+-view calendar and notice
+-view child attendance status
+-get notification about payment dates
+-pay online
+-contact admin
+
+Teacher's side:
+-login
+-submit grade 
+-post assignment
+-submit students attendance and status 
+-view notice
+-share important links
+
+Admin's side:
+-login
+-add users
+-post notice, calendar and schedule
+-assign teachers to sections
+-authorize club formation
+-post clubs and activities
+-contact parent about the student 
+-notify parent when monthly payment approaches
+
+*The website will have the educational level of each staff 
+member in the home bar of every side of the site.
+*The website will have school location and contact information in 
+the home page.
